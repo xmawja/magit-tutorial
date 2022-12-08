@@ -5,3 +5,5 @@
 ## This commit from feature branch
 
 ## This commit has been demanded by the manager
+
+## This Commit from stash branch
